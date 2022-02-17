@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/BurntSushi/toml"
-	tomltest "github.com/BurntSushi/toml/internal/toml-test"
+	"github.com/lucasbutn/toml"
+	tomltest "github.com/lucasbutn/toml/internal/toml-test"
 )
 
 func TestErrorPosition(t *testing.T) {

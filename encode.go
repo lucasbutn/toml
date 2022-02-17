@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/BurntSushi/toml/internal"
+	"github.com/lucasbutn/toml/internal"
 )
 
 type tomlEncodeError struct{ error }

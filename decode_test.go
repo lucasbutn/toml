@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/BurntSushi/toml/internal"
+	"github.com/lucasbutn/toml/internal"
 )
 
 func TestDecodeReader(t *testing.T) {

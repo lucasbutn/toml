@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/BurntSushi/toml"
+	"github.com/lucasbutn/toml"
 	"strconv"
 	"strings"
 	"testing"

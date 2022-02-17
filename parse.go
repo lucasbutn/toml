@@ -7,7 +7,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/BurntSushi/toml/internal"
+	"github.com/lucasbutn/toml/internal"
 )
 
 type parser struct {
